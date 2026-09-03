@@ -1,8 +1,8 @@
 # Hi there, I'm Alexandra Vereecken! 👋 
 
-## 🧬 Veterinary Scientist & One Health Bioinformatician
+## 🧬 One Health Scientist : Veterinary Degree, Food Safety Master's Degree & Specialized Bioinformatician
 
-I am a multidisciplinary scientist bridging the gap between **Veterinary Medicine**, **Food Safety Protocols**, and **Computational Biology**. My expertise focuses on leveraging Next-Generation Sequencing (NGS) data, programming workflows, and genomic analysis to solve real-world public health challenges.
+I am a multidisciplinary scientist bridging the gap between **Veterinary Medicine**, **Food Safety Protocols**, and **Bioinformatics**. My expertise focuses on leveraging Next-Generation Sequencing (NGS) data, programming workflows, and genomic analysis to solve real-world public health challenges.
 
 ---
 
@@ -24,7 +24,6 @@ I am a multidisciplinary scientist bridging the gap between **Veterinary Medicin
 ---
 
 ### 📊 GitHub Stats & Activity
-*(These cards will update automatically as you code!)*
 
 [![Alexandra's GitHub Stats](https://vercel.app)](https://github.com)
 [![Top Langs](https://vercel.app)](https://github.com)
@@ -34,5 +33,5 @@ I am a multidisciplinary scientist bridging the gap between **Veterinary Medicin
 ### ✉️ Connect With Me
 I am actively seeking professional opportunities in **FoodTech Startups, Omics & Sequencing Services, and Public Health Research Laboratories**.
 
-*   **LinkedIn:** [://linkedin.com](#) *(Replace with your actual link)*
-*   **Email:** [your.email@example.com](mailto:your.email@example.com)
+*   **LinkedIn:** https://www.linkedin.com/in/alexandra-vereecken-610149296/
+*   **Email:** [alexandravereecken@gmail](mailto:your.email@example.com)
