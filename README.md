@@ -8,7 +8,7 @@ I am a multidisciplinary scientist bridging the gap between **Veterinary Medicin
 
 ### 🛠️ Tech Stack & Core Competencies
 
-*   **Programming Languages:**
+*   **Programming Languages:** Python, R, SQL, Bash / Shell scripting.
     ![](https://shields.io)
     ![](https://shields.io)
     ![](https://shields.io)
