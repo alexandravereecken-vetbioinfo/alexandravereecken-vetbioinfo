@@ -13,7 +13,7 @@ I am a multidisciplinary scientist bridging the gap between **Veterinary Medicin
     ![](https://shields.io)
     ![](https://shields.io)
 *   **Bioinformatics Domains:** Genomic Surveillance (NGS), Antimicrobial Resistance (AMR) Screening, Metagenomics, Alignment Algorithms (BLAST+).
-*   **Industrial Frameworks:** HACCP, ISO 22000, Food Safety Auditing, Zoonosis Control, EFSA & CDC Standards.
+*   **Industrial Frameworks:** HACCP, Food Safety Auditing, Zoonosis Control, EFSA & CDC Standards.
 
 ---
 
