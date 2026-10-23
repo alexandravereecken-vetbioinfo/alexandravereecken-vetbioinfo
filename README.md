@@ -1,37 +1,98 @@
-# Hi there, I'm Alexandra Vereecken! 👋 
 
-## 🧬 One Health Scientist : Veterinary Degree, Food Safety Master's Degree & Specialized Bioinformatician
+# Hi, I'm Alexandra Vereecken! 👋
 
-I am a multidisciplinary scientist bridging the gap between **Veterinary Medicine**, **Food Safety Protocols**, and **Bioinformatics**. My expertise focuses on leveraging Next-Generation Sequencing (NGS) data, programming workflows, and genomic analysis to solve real-world public health challenges.
+### Veterinary Graduate | Food Safety & Quality | Technical Support & Digital Tools
 
----
+I have a background in **Veterinary Medicine**, a Master's degree in **Food Safety**, and additional training in **Bioinformatics**. I combine scientific knowledge with practical experience in customer support, digital content management, information review, and technical troubleshooting.
 
-### 🛠️ Tech Stack & Core Competencies
+I enjoy working at the intersection of **science, technology, and user support**, helping people understand information, solve problems, and use digital tools effectively.
 
-*   **Programming Languages:** Python, R, SQL, Bash / Shell scripting.
-    ![](https://shields.io)
-    ![](https://shields.io)
-    ![](https://shields.io)
-*   **Bioinformatics Domains:** Genomic Surveillance (NGS), Antimicrobial Resistance (AMR) Screening, Metagenomics, Alignment Algorithms (BLAST+).
-*   **Industrial Frameworks:** HACCP, Food Safety Auditing, Zoonosis Control, EFSA & CDC Standards.
+I am particularly interested in opportunities involving veterinary and healthcare technology, laboratory software, food safety, product quality, and technical documentation.
+
+📍 Based in Spain | 🌍 Open to international and remote opportunities
 
 ---
 
-### 📂 Featured Open-Source Projects
+## 🛠️ Skills & Background
 
-*   **[outbreak-genomic-tracker](https://github.com):** A production-ready Python pipeline designed for molecular epidemiology. It reads surveillance screening datasets and computes SNP genomic distances to track foodborne pathogen sources (like *Listeria* or *Salmonella*) directly within the food production supply chain.
+### 🔬 Scientific Knowledge
+- Veterinary Medicine
+- Food Safety and Quality Systems
+- Food Hygiene and HACCP Principles
+- Allergen Management
+- Scientific Research and Technical Documentation
+
+### 💻 Digital & Technical Skills
+- WordPress Content Management
+- HTML & CSS
+- Technical Troubleshooting and User Assistance
+- Information Review and Quality Assurance
+- Basic academic experience with Python, R, SQL, and Bash
+
+### 🤝 Professional Skills
+- Customer and Technical Support
+- Problem-Solving and Written Communication
+- Content Quality Assurance
+- Information Management and Documentation
+- Multilingual Communication
 
 ---
 
-### 📊 GitHub Stats & Activity
+## 🎓 Academic Background
 
-[![Alexandra's GitHub Stats](https://vercel.app)](https://github.com)
-[![Top Langs](https://vercel.app)](https://github.com)
+**Master's Degree in Food Safety**  
+University of Jaén, Spain
+
+Graduated with an average grade of **9.59/10**. My Master's thesis explored cellulose-based hydrogels for water absorption in olive pomace oil, involving experimental analysis and laboratory characterization techniques.
+
+**Degree in Veterinary Medicine**  
+University of León, Spain
+
+**Diploma in Bioinformatics Analysis**  
+Pablo de Olavide University, Spain
+
+Additional academic training in Python, R, SQL, Bash, and bioinformatics analysis.
 
 ---
 
-### ✉️ Connect With Me
-I am actively seeking professional opportunities in **FoodTech Startups, Omics & Sequencing Services, and Public Health Research Laboratories**.
+## 💼 Professional Experience
 
-*   **LinkedIn:** https://www.linkedin.com/in/alexandra-vereecken-610149296/
-*   **Email:** [alexandravereecken@gmail](mailto:your.email@example.com)
+My professional experience includes customer support and digital content operations for French- and Spanish-speaking clients.
+
+My responsibilities include:
+
+- Responding to client enquiries and resolving practical issues.
+- Managing and reviewing digital content using WordPress.
+- Working with HTML and CSS for content-related tasks.
+- Checking information for accuracy, consistency, and quality.
+- Coordinating requests and communicating with clients in a multilingual environment.
+
+This experience has strengthened my problem-solving, documentation, digital workflow, and user-support skills.
+
+---
+
+## 🎯 Areas of Interest
+
+- Veterinary and Healthcare Technology
+- Technical and Application Support
+- Laboratory Information Systems and Scientific Software
+- Food Safety and Product Quality
+- Regulatory and Technical Documentation
+- Digital Tools for Scientific and Healthcare Applications
+
+---
+
+## 🌍 Languages
+
+- **Spanish:** Native
+- **French:** Native
+- **English:** Advanced (C1)
+
+---
+
+## 🤝 Let's Connect
+
+I am interested in opportunities where scientific knowledge, digital tools, and communication skills come together, particularly in international and remote-friendly environments.
+
+- **LinkedIn:** [Alexandra Vereecken](https://www.linkedin.com/in/alexandra-vereecken-610149296/)
+- **GitHub:** [Explore my repositories](https://github.com/)
